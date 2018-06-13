@@ -10,7 +10,7 @@ There are five datasets collected here:
 * Text files extracted from these pdfs using <a href="https://linux.die.net/man/1/pdftotext">pdftotext</a>
 * Images extracted from these pdfs using <a href="https://linux.die.net/man/1/pdfimages">pdfimages</a>, and cropped using <a href="http://www.imagemagick.org/script/index.php">ImageMagick</a>.
 * A JSON file organizing some of the attributes found in the above datasets. Documentation about how this dataset was created, and the meaning of the keys, is coming soon.
-* A dataset of thumbnails for easy loading on the <a href="russian-ad-explorer.github.io">Russian Ad Explorer</a>.
+* A dataset of thumbnails for easy loading on the <a href="https://russian-ad-explorer.github.io">Russian Ad Explorer</a>.
 * Two CSV files containing some informal categorizations of some of the "Targeted Interests" and "Location" categories, for use in the <a href="https://russian-ad-explorer.github.io/">Russian Ad Explorer</a> web app. You can read more about how these categories were chosen in the <a href="https://russian-ad-explorer.github.io/about">About</a> section of that page.
 
 I've mirrored the some of the datasets on Google Drive. You can download the extracted images <a href="https://drive.google.com/open?id=1rKuPaB7NMMdGraeB-L2HolLkhbBLIswG">here</a> and the downloaded text here: <a href="https://drive.google.com/drive/folders/1baK_hVQrVsa1phjRy5UZ4LSmRYp9txOa?usp=sharing">here</a>.
